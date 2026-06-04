@@ -1,0 +1,14 @@
+# Core dependencies for CMAC Task 4 AE Safety Dashboard
+# Python 3.11+ required
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+pyreadstat>=1.2.0
+
+# Visualization
+plotly>=6.0.0
+kaleido>=1.3.0
+
+# Interactive dashboard
+streamlit>=1.30.0
